@@ -48,6 +48,7 @@ After preprocessing we ended up with  the dataset which is consistent and qualit
 https://docs.google.com/document/d/1KpQXABNp_eZBaxO-0dPRPZRS7eNTSKKnesABlmx-56k/edit?tab=t.0#heading=h.4vdr5y7p2ll5
 
 ## Video Presentation
-[https://docs.google.com/document/d/1diWRjNDw4qpZwam5kcC7i5hC9nyVi-rHScghSHm9SfM/edit?usp=sharing](https://vimeo.com/1068311978/0313d0d289?ts=0&share=copy)
+https://vimeo.com/1068311978/0313d0d289?ts=0&share=copy
+
 
 
